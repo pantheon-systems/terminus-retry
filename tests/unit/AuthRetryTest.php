@@ -16,8 +16,8 @@ class AuthRetryTest extends TestCase
     {
         return [
             [ '', [], ],
-            [ '--help', [ 'help' => true ] ],
-            [ '--define="foo=bar"', [ 'define' => ["foo=bar"] ] ],
+            [ ' --help', [ 'help' => true ] ],
+            [ ' --define="foo=bar"', [ 'define' => ["foo=bar"] ] ],
         ];
     }
 
