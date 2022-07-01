@@ -83,7 +83,7 @@ class AuthRetryCommand extends TerminusCommand
      * @param array $options Symfony options array.
      * @return string        Option string.
      */
-    public function processOptions( $options )
+    public function processOptions($options)
     {
         $optstr = '';
 
