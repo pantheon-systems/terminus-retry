@@ -1,4 +1,4 @@
 vendor
 tools
 
-.phpunit.result.cache
+.phpunit.result.cache.git/
