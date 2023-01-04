@@ -38,3 +38,4 @@ Note that prior to running the tests, you should first run:
 
 * `composer install`
 * `composer install-tools`
+test
