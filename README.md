@@ -1,4 +1,8 @@
+
 # Terminus Retry
+
+> [!IMPORTANT]
+> This plugin has been archived as the retry functionality is [included in core Terminus now](https://github.com/pantheon-systems/terminus/pull/2588).
 
 [![CircleCI](https://circleci.com/gh/pantheon-systems/terminus-retry.svg?style=shield)](https://circleci.com/gh/pantheon-systems/terminus-retry)
 [![Terminus v2.x - v3.x Compatible](https://img.shields.io/badge/terminus-2.x%20--%203.x-green.svg)](https://github.com/pantheon-systems/terminus-plugin-example/tree/2.x)
